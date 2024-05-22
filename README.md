@@ -20,9 +20,16 @@ This API provides a set of methods to interact with a WebDAV server using React 
 
 To use the `WebDavService` in your React project, install the required dependencies:
 
+#### npm
 ```bash
 npm install axios xml2js
 ```
+
+#### yarn
+```bash
+yard add axios xml2js
+```
+
 ## Examples
 #### Login Example
 Here's how you can create an instance of the WebDavService with login credentials:
